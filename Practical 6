@@ -58,12 +58,12 @@ SQL> select * from student_mark;
 
     ROLLNO NAME                 TOTAL_MARK
 ---------- -------------------- ----------
-       101 prajakta                   1200
-       102 pranat                     1000
-       103 maahi                       900
-       104 pooja                       800
-       105 anuj                        899
-       106 divya                       925
+       101 pranat                   1200
+       102 anuj                     1000
+       103 mohit                       900
+       104 sumeet                       800
+       105 vedant                       899
+       106 ram                       925
 
 6 rows selected.
 
@@ -72,15 +72,15 @@ SQL> select * from student_result;
     ROLLNO NAME                 GRADE
 ---------- -------------------- --------------------
        102 pranat               1st class with dist.
-       101 prajakta             1st class with dist.
-       103 maahi                1st class
-       104 pooja                Fail
-       101 prajakta             1st class with dist.
-       102 pranat               1st class with dist.
-       103 maahi                1st class
-       104 pooja                Fail
-       105 anuj                 2nd class
-       106 divya                1st class
+       101 anuj             1st class with dist.
+       103 mohiy                1st class
+       104 sumeet                Fail
+       101 pranat             1st class with dist.
+       102 anuj               1st class with dist.
+       103 mohit               1st class
+       104 sumeet                Fail
+       105 vedant                 2nd class
+       106 ram               1st class
 
 10 rows selected.
 
